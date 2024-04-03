@@ -1,1 +1,2 @@
 # Generative-AI
+Author - Hridaye
